@@ -1,0 +1,2 @@
+# Stone-paper-scissor-Game
+This is simple 'stone paper scissor' game. It can be played in between you and computer. The game rules are: If you choose stone and computer chooses scissor you win and in opposite case you lost. If you choose paper and computer chooses stone then you win and in opposite case you lost. if you choose scissor and computer chooses paper  you win and in opposite case you lost and if both you and computer chooses same then the game is draw. Remember the computer chooses random options 
